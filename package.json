@@ -1,0 +1,26 @@
+{
+  "name": "cortex-theme",
+  "displayName": "Cortex Theme",
+  "description": "Designed for developers who crave both style and substance, Cortex Dark embodies the essence of Cortex’s brand—innovative, reliable, and visually striking.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cortex Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cortex-dark.json"
+      },
+      {
+        "label": "Cortex Dark Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cortex-dark-soft.json"
+      }
+    ]
+  }
+}
