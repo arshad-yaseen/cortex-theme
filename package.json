@@ -14,12 +14,12 @@
       {
         "label": "Cortex Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/cortex-dark.json"
+        "path": "./themes/json/cortex-dark.json"
       },
       {
         "label": "Cortex Dark Soft",
         "uiTheme": "vs-dark",
-        "path": "./themes/cortex-dark-soft.json"
+        "path": "./themes/json/cortex-dark-soft.json"
       }
     ]
   },
