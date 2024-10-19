@@ -1,8 +1,12 @@
 {
   "name": "cortex-theme",
   "displayName": "Cortex Theme",
-  "description": "Designed for developers who crave both style and substance, Cortex Dark embodies the essence of Cortex’s brand—innovative, reliable, and visually striking.",
+  "description": "Designed for developers who crave both style and substance, Cortex Dark embodies the essence of Cortex's brand—innovative, reliable, and visually striking.",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/arshad-yaseen/cortex-theme"
+  },
+  "publisher": "arshad-yaseen",
   "engines": {
     "vscode": "^1.94.0"
   },
