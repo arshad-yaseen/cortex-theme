@@ -1,7 +1,3 @@
-# Cortex Theme for Visual Studio Code
-
-A sleek, dark color theme for Visual Studio Code.
-
 ![Cortex Dark](./images/cortex-dark.png)
 ![Cortex Dark Soft](./images/cortex-dark-soft.png)
 
@@ -11,8 +7,8 @@ A sleek, dark color theme for Visual Studio Code.
 
 Cortex Theme comes in two variants:
 
-- Cortex Dark: The standard dark theme
-- Cortex Dark Soft: A slightly softer version for reduced eye strain (recommended for long coding sessions)
+- **Cortex Dark**: The standard dark theme
+- **Cortex Dark Soft**: A slightly softer version for reduced eye strain (recommended for long coding sessions)
 
 To switch between variants, use the Color Theme menu in VS Code.
 
