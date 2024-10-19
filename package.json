@@ -22,5 +22,6 @@
         "path": "./themes/cortex-dark-soft.json"
       }
     ]
-  }
+  },
+  "icon": ""
 }

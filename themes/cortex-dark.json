@@ -100,7 +100,6 @@
     "editor.foreground": "#C0CAF5",
     "editorLineNumber.foreground": "#545862",
     "editorLineNumber.activeForeground": "#C0CAF5",
-    "editorCursor.foreground": "#FFCC00",
     "editor.selectionBackground": "#334A77",
     "editor.selectionHighlightBackground": "#1E1F26",
     "editor.wordHighlightBackground": "#2A2D3E",
@@ -284,20 +283,6 @@
       "scope": ["variable", "meta.definition.variable", "entity.name.variable"],
       "settings": {
         "foreground": "#C0CAF5"
-      }
-    },
-    {
-      "scope": ["meta.class", "entity.name.class", "entity.name.type.class"],
-      "settings": {
-        "foreground": "#FFCC00",
-        "fontStyle": "bold underline"
-      }
-    },
-    {
-      "scope": ["meta.interface", "entity.name.interface"],
-      "settings": {
-        "foreground": "#FF6C6B",
-        "fontStyle": "italic underline"
       }
     },
     {
