@@ -21,9 +21,9 @@
         "path": "./themes/cortex-dark.json"
       },
       {
-        "label": "Cortex Dark Soft",
-        "uiTheme": "vs-dark",
-        "path": "./themes/cortex-dark-soft.json"
+        "label": "Cortex Light",
+        "uiTheme": "vs",
+        "path": "./themes/cortex-light.json"
       }
     ]
   },
