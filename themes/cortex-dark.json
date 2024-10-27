@@ -3,7 +3,7 @@
   "displayName": "Cortex Dark",
   "type": "dark",
   "colors": {
-    "editor.background": "#101010",
+    "editor.background": "#18181B",
     "editor.foreground": "#D1D5DA"
   },
   "tokenColors": [
