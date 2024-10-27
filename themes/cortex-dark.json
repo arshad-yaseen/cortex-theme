@@ -1,5 +1,6 @@
 {
   "name": "cortex-dark",
+  "displayName": "Cortex Dark",
   "type": "dark",
   "colors": {
     "editor.background": "#101010",

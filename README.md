@@ -1,9 +1,8 @@
-## Cortex Dark
+# Cortex Theme
 
-![Cortex Dark 1](./images/cortex-dark-1.png)
-![Cortex Dark 2](./images/cortex-dark-2.png)
+The code theme used in Cortex across documentation, blog posts, and markdown code blocks.
 
-### Languages with Full Support
+## Languages with Full Support
 
 - JavaScript/TypeScript
 - Python
@@ -11,6 +10,11 @@
 - YAML
 - HTML
 - CSS
+
+## Cortex Dark
+
+![Cortex Dark 1](./images/cortex-dark-1.png)
+![Cortex Dark 2](./images/cortex-dark-2.png)
 
 ### Color Palette
 
@@ -32,4 +36,23 @@
 
 ## Cortex Light
 
-The Cortex Light theme is currently under construction and undergoing further refinements.
+![Cortex Light 1](./images/cortex-light-1.png)
+![Cortex Light 2](./images/cortex-light-2.png)
+
+### Color Palette
+
+| Element     | HSL                 | RGB                | HEX     |
+| ----------- | :------------------ | :----------------- | :------ |
+| Background  | hsl(0, 0%, 100%)    | rgb(255, 255, 255) | #FFFFFF |
+| Foreground  | hsl(0, 0%, 20%)     | rgb(51, 51, 51)    | #333333 |
+| Comments    | hsl(0, 0%, 33%)     | rgb(85, 85, 85)    | #555555 |
+| Strings     | hsl(110, 35%, 36%)  | rgb(74, 124, 59)   | #4A7C3B |
+| Numbers     | hsl(40, 100%, 40%)  | rgb(204, 132, 0)   | #CC8400 |
+| Keywords    | hsl(357, 100%, 42%) | rgb(216, 0, 12)    | #D8000C |
+| Functions   | hsl(212, 100%, 37%) | rgb(0, 95, 188)    | #005FBC |
+| Variables   | hsl(0, 0%, 20%)     | rgb(51, 51, 51)    | #333333 |
+| Constants   | hsl(40, 100%, 40%)  | rgb(204, 132, 0)   | #CC8400 |
+| Classes     | hsl(40, 100%, 40%)  | rgb(204, 132, 0)   | #CC8400 |
+| Types       | hsl(40, 100%, 40%)  | rgb(204, 132, 0)   | #CC8400 |
+| Operators   | hsl(0, 0%, 20%)     | rgb(51, 51, 51)    | #333333 |
+| Punctuation | hsl(0, 0%, 20%)     | rgb(51, 51, 51)    | #333333 |
