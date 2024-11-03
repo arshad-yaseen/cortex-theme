@@ -11,48 +11,40 @@ The code theme used in Cortex across documentation, blog posts, and markdown cod
 - HTML
 - CSS
 
-## Cortex Dark
+### Cortex Dark Color Palette
 
-![Cortex Dark 1](./images/cortex-dark-1.png)
-![Cortex Dark 2](./images/cortex-dark-2.png)
+| Element     | Color   | HSL            | RGB           |
+| ----------- | ------- | -------------- | ------------- |
+| Background  | #101017 | 240, 18%, 8%   | 16, 16, 23    |
+| Foreground  | #E8EAF2 | 228, 44%, 93%  | 232, 234, 242 |
+| Comments    | #7F8499 | 228, 10%, 55%  | 127, 132, 153 |
+| Keywords    | #FF7AB2 | 338, 100%, 74% | 255, 122, 178 |
+| Strings     | #C3E88D | 95, 70%, 73%   | 195, 232, 141 |
+| Functions   | #82AAFF | 219, 100%, 76% | 130, 170, 255 |
+| Variables   | #FFB86C | 31, 100%, 71%  | 255, 184, 108 |
+| Tags        | #7AE0A7 | 151, 67%, 68%  | 122, 224, 167 |
+| Entities    | #C792EA | 285, 65%, 75%  | 199, 146, 234 |
+| Invalid     | #FF8A9E | 351, 100%, 77% | 255, 138, 158 |
+| Links       | #C3E88D | 95, 70%, 73%   | 195, 232, 141 |
+| Diff Add    | #144620 | 134, 57%, 18%  | 20, 70, 32    |
+| Diff Delete | #86181D | 358, 70%, 31%  | 134, 24, 29   |
+| Diff Change | #C24E00 | 25, 100%, 38%  | 194, 78, 0    |
 
-### Color Palette
+### Cortex Light Color Palette
 
-| Element     | HSL                | RGB                | HEX     |
-| ----------- | :----------------- | :----------------- | :------ |
-| Background  | hsl(0, 0%, 6%)     | rgb(16, 16, 16)    | #101010 |
-| Foreground  | hsl(214, 13%, 83%) | rgb(209, 213, 218) | #D1D5DA |
-| Comments    | hsl(212, 8%, 45%)  | rgb(106, 115, 125) | #6A737D |
-| Strings     | hsl(84, 55%, 55%)  | rgb(158, 203, 74)  | #9ECB4A |
-| Numbers     | hsl(29, 54%, 61%)  | rgb(209, 154, 102) | #D19A66 |
-| Keywords    | hsl(286, 60%, 67%) | rgb(198, 120, 221) | #C678DD |
-| Functions   | hsl(207, 82%, 66%) | rgb(97, 175, 239)  | #61AFEF |
-| Variables   | hsl(355, 65%, 65%) | rgb(224, 108, 117) | #E06C75 |
-| Constants   | hsl(29, 54%, 61%)  | rgb(209, 154, 102) | #D19A66 |
-| Classes     | hsl(39, 67%, 69%)  | rgb(229, 192, 123) | #E5C07B |
-| Types       | hsl(187, 47%, 55%) | rgb(86, 182, 194)  | #56B6C2 |
-| Operators   | hsl(286, 60%, 67%) | rgb(198, 120, 221) | #C678DD |
-| Punctuation | hsl(214, 13%, 83%) | rgb(209, 213, 218) | #D1D5DA |
-
-## Cortex Light
-
-![Cortex Light 1](./images/cortex-light-1.png)
-![Cortex Light 2](./images/cortex-light-2.png)
-
-### Color Palette
-
-| Element     | HSL                 | RGB                | HEX     |
-| ----------- | :------------------ | :----------------- | :------ |
-| Background  | hsl(0, 0%, 100%)    | rgb(255, 255, 255) | #FFFFFF |
-| Foreground  | hsl(0, 0%, 20%)     | rgb(51, 51, 51)    | #333333 |
-| Comments    | hsl(0, 0%, 33%)     | rgb(85, 85, 85)    | #555555 |
-| Strings     | hsl(110, 35%, 36%)  | rgb(74, 124, 59)   | #4A7C3B |
-| Numbers     | hsl(40, 100%, 40%)  | rgb(204, 132, 0)   | #CC8400 |
-| Keywords    | hsl(357, 100%, 42%) | rgb(216, 0, 12)    | #D8000C |
-| Functions   | hsl(212, 100%, 37%) | rgb(0, 95, 188)    | #005FBC |
-| Variables   | hsl(0, 0%, 20%)     | rgb(51, 51, 51)    | #333333 |
-| Constants   | hsl(40, 100%, 40%)  | rgb(204, 132, 0)   | #CC8400 |
-| Classes     | hsl(40, 100%, 40%)  | rgb(204, 132, 0)   | #CC8400 |
-| Types       | hsl(40, 100%, 40%)  | rgb(204, 132, 0)   | #CC8400 |
-| Operators   | hsl(0, 0%, 20%)     | rgb(51, 51, 51)    | #333333 |
-| Punctuation | hsl(0, 0%, 20%)     | rgb(51, 51, 51)    | #333333 |
+| Element     | Color   | HSL            | RGB           |
+| ----------- | ------- | -------------- | ------------- |
+| Background  | #FFFFFF | 0, 0%, 100%    | 255, 255, 255 |
+| Foreground  | #2D2D2D | 0, 0%, 18%     | 45, 45, 45    |
+| Comments    | #787C99 | 228, 12%, 54%  | 120, 124, 153 |
+| Keywords    | #D6336C | 342, 76%, 52%  | 214, 51, 108  |
+| Strings     | #2E7D32 | 123, 46%, 33%  | 46, 125, 50   |
+| Functions   | #0066CC | 210, 100%, 40% | 0, 102, 204   |
+| Variables   | #B45309 | 28, 95%, 37%   | 180, 83, 9    |
+| Tags        | #16A34A | 142, 76%, 36%  | 22, 163, 74   |
+| Entities    | #7C3AED | 256, 83%, 58%  | 124, 58, 237  |
+| Invalid     | #DC2626 | 0, 72%, 51%    | 220, 38, 38   |
+| Links       | #2E7D32 | 123, 46%, 33%  | 46, 125, 50   |
+| Diff Add    | #DCFCE7 | 141, 84%, 93%  | 220, 252, 231 |
+| Diff Delete | #FEE2E2 | 0, 93%, 94%    | 254, 226, 226 |
+| Diff Change | #FEF3C7 | 48, 96%, 89%   | 254, 243, 199 |
